@@ -1,10 +1,6 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+## 🚀 Introdução do Meu Projeto - FelipeDevSenai
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
@@ -20,19 +16,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Em Busca Da IA Perfeita ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Meu projeto consiste em desenvolver um site de nutrição com o intuito de ajudar e tornar acessivel para todos os públicos, através de ideias, coloca-las em prática no site web. Usando receitas, dicas de alimentaçao, dicas de exercícios e entre outras diversas dicas
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Bing Image Creator
+D-ID
+ChatGPT
+Gemini
+Midjourney
+Microsoft Copilot
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O processo de criação é algo que merece o devido cuidado, pois está mexendo com a saúde de nossos clientes, receitas usadas e recomendadas por profissionais do ramo BodyBuilding e no ramo de Alimentaçaõ
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Resultados totalmente esperados, melhora da qualidade de vida, fácil acesso ao site, acessibilidade para todos, ótimos conteúdos e ótimas imagens
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
@@ -45,6 +47,15 @@ Comente sobre o desafio de criar algo 'natty' com IA.
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
+https://www.midjourney.com/home
+https://negociosdigitais.net.br/720receitaszeroacucar?gad_source=1&gclid=CjwKCAjwk8e1BhALEiwAc8MHiCAMTE29UKecoERKEafTnZyafFEh_jcWftRBEUU5llTHQ82tg0_59xoCBNoQAvD_BwE
+https://chatgpt.com/
+https://www.d-id.com/
+https://elevenlabs.io/
+https://uiverse.io/
+
+
+
 
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
